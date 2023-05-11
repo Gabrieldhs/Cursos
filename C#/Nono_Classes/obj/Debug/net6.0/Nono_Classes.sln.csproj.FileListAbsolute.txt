@@ -1,0 +1,5 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\obj\Debug\net6.0\Nono_Classes.sln.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\obj\Debug\net6.0\Nono_Classes.sln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\obj\Debug\net6.0\Nono_Classes.sln.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\obj\Debug\net6.0\Nono_Classes.sln.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\obj\Debug\net6.0\Nono_Classes.sln.csproj.CoreCompileInputs.cache

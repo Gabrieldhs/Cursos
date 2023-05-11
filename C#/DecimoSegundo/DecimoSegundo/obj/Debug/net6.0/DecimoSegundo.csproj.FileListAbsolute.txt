@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\bin\Debug\net6.0\DecimoSegundo.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\bin\Debug\net6.0\DecimoSegundo.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\bin\Debug\net6.0\DecimoSegundo.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\bin\Debug\net6.0\DecimoSegundo.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\bin\Debug\net6.0\DecimoSegundo.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\DecimoSegundo.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\DecimoSegundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\DecimoSegundo.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\DecimoSegundo.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\DecimoSegundo.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\DecimoSegundo.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\refint\DecimoSegundo.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\DecimoSegundo.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\DecimoSegundo.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoSegundo\DecimoSegundo\obj\Debug\net6.0\ref\DecimoSegundo.dll

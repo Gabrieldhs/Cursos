@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\bin\Debug\net6.0\Quarta.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\bin\Debug\net6.0\Quarta.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\bin\Debug\net6.0\Quarta.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\bin\Debug\net6.0\Quarta.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\bin\Debug\net6.0\Quarta.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\Quarta.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\Quarta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\Quarta.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\Quarta.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\Quarta.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\Quarta.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\refint\Quarta.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\Quarta.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\Quarta.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Quarta\obj\Debug\net6.0\ref\Quarta.dll

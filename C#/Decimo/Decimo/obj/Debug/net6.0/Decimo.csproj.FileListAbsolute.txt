@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\bin\Debug\net6.0\Decimo.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\bin\Debug\net6.0\Decimo.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\bin\Debug\net6.0\Decimo.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\bin\Debug\net6.0\Decimo.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\bin\Debug\net6.0\Decimo.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\Decimo.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\Decimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\Decimo.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\Decimo.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\Decimo.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\Decimo.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\refint\Decimo.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\Decimo.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\Decimo.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Decimo\Decimo\obj\Debug\net6.0\ref\Decimo.dll

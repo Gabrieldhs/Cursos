@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\bin\Debug\net6.0\TopicosE01.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\bin\Debug\net6.0\TopicosE01.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\bin\Debug\net6.0\TopicosE01.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\bin\Debug\net6.0\TopicosE01.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\bin\Debug\net6.0\TopicosE01.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\TopicosE01.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\TopicosE01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\TopicosE01.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\TopicosE01.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\TopicosE01.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\TopicosE01.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\refint\TopicosE01.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\TopicosE01.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\TopicosE01.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\TopicosE01\TopicosE01\obj\Debug\net6.0\ref\TopicosE01.dll

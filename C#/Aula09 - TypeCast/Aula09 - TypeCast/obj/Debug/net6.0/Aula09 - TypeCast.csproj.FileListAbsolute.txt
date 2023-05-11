@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\bin\Debug\net6.0\Aula09 - TypeCast.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\bin\Debug\net6.0\Aula09 - TypeCast.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\bin\Debug\net6.0\Aula09 - TypeCast.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\bin\Debug\net6.0\Aula09 - TypeCast.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\bin\Debug\net6.0\Aula09 - TypeCast.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\Aula09 - TypeCast.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\Aula09 - TypeCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\Aula09 - TypeCast.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\Aula09 - TypeCast.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\Aula09 - TypeCast.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\Aula09 - TypeCast.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\refint\Aula09 - TypeCast.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\Aula09 - TypeCast.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\Aula09 - TypeCast.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula09 - TypeCast\obj\Debug\net6.0\ref\Aula09 - TypeCast.dll

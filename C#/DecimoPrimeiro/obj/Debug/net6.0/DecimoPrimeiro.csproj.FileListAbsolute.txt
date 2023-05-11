@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\bin\Debug\net6.0\DecimoPrimeiro.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\bin\Debug\net6.0\DecimoPrimeiro.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\bin\Debug\net6.0\DecimoPrimeiro.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\bin\Debug\net6.0\DecimoPrimeiro.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\bin\Debug\net6.0\DecimoPrimeiro.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\DecimoPrimeiro.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\DecimoPrimeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\DecimoPrimeiro.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\DecimoPrimeiro.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\DecimoPrimeiro.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\DecimoPrimeiro.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\refint\DecimoPrimeiro.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\DecimoPrimeiro.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\DecimoPrimeiro.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\DecimoPrimeiro\obj\Debug\net6.0\ref\DecimoPrimeiro.dll

@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\bin\Debug\net6.0\Exercicio_09.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\bin\Debug\net6.0\Exercicio_09.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\bin\Debug\net6.0\Exercicio_09.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\bin\Debug\net6.0\Exercicio_09.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\bin\Debug\net6.0\Exercicio_09.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\Exercicio_09.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\Exercicio_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\Exercicio_09.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\Exercicio_09.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\Exercicio_09.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\Exercicio_09.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\refint\Exercicio_09.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\Exercicio_09.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\Exercicio_09.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Nono_Classes\Exercicio_09\obj\Debug\net6.0\ref\Exercicio_09.dll

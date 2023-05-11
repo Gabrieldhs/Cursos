@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "97zzsArnIskLUnEtRw2sO/nWd/j5iSJAJgi76IVWCX53lwla5o/Oz+EBs+SxSnXqSLZAhWE3yAC5909PuJP/zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.santos\\OneDrive - VIKSERVICES OUTSOURCING S.A\\Área de Trabalho\\Udemy\\C#\\Enumeracoes\\Enumeracoes\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.santos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gabriel.santos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gabriel.santos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gabriel.santos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gabriel.santos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gabriel.santos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

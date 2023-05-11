@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9Pw2B/alL5fn1quAuW02vKyWRsWWLIy8dpW/VzrB0pIc3frfIqkwqebViSOOhrQrKcxlKeIQuDzOwNnnAJ6cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.santos\\OneDrive - VIKSERVICES OUTSOURCING S.A\\Área de Trabalho\\Udemy\\ASP.NET\\FastTech\\FastTech.Core\\FastTech.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.santos\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\gabriel.santos\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

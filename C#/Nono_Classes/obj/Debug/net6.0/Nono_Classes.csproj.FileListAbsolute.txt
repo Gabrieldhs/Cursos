@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\bin\Debug\net6.0\Nono_Classes.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\bin\Debug\net6.0\Nono_Classes.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\bin\Debug\net6.0\Nono_Classes.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\bin\Debug\net6.0\Nono_Classes.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\bin\Debug\net6.0\Nono_Classes.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\Nono_Classes.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\Nono_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\Nono_Classes.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\Nono_Classes.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\Nono_Classes.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\Nono_Classes.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\refint\Nono_Classes.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\Nono_Classes.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\Nono_Classes.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Oitavo_For\Nono_Classes\obj\Debug\net6.0\ref\Nono_Classes.dll

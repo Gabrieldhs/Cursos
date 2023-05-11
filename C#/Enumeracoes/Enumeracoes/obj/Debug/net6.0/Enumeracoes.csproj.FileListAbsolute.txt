@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\bin\Debug\net6.0\Enumeracoes.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\refint\Enumeracoes.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\Enumeracoes.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Enumeracoes\Enumeracoes\obj\Debug\net6.0\ref\Enumeracoes.dll

@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\bin\Debug\net6.0\Setimo_While.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\bin\Debug\net6.0\Setimo_While.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\bin\Debug\net6.0\Setimo_While.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\bin\Debug\net6.0\Setimo_While.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\bin\Debug\net6.0\Setimo_While.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\Setimo_While.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\Setimo_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\Setimo_While.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\Setimo_While.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\Setimo_While.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\Setimo_While.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\refint\Setimo_While.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\Setimo_While.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\Setimo_While.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\C#\Terceiro\Sexto_While\obj\Debug\net6.0\ref\Setimo_While.dll

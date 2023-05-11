@@ -1,0 +1,12 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\bin\Debug\net6.0\FastTech.Core.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\bin\Debug\net6.0\FastTech.Core.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\bin\Debug\net6.0\FastTech.Core.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\obj\Debug\net6.0\FastTech.Core.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\obj\Debug\net6.0\FastTech.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\obj\Debug\net6.0\FastTech.Core.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\obj\Debug\net6.0\FastTech.Core.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\obj\Debug\net6.0\FastTech.Core.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\obj\Debug\net6.0\FastTech.Core.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\obj\Debug\net6.0\refint\FastTech.Core.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\obj\Debug\net6.0\FastTech.Core.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\Udemy\ASP.NET\FastTech\FastTech.Core\obj\Debug\net6.0\ref\FastTech.Core.dll

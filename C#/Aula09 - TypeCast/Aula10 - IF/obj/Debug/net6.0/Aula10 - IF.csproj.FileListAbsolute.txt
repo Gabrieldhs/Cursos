@@ -1,0 +1,15 @@
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\bin\Debug\net6.0\Aula10 - IF.exe
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\bin\Debug\net6.0\Aula10 - IF.deps.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\bin\Debug\net6.0\Aula10 - IF.runtimeconfig.json
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\bin\Debug\net6.0\Aula10 - IF.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\bin\Debug\net6.0\Aula10 - IF.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\Aula10 - IF.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\Aula10 - IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\Aula10 - IF.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\Aula10 - IF.AssemblyInfo.cs
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\Aula10 - IF.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\Aula10 - IF.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\refint\Aula10 - IF.dll
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\Aula10 - IF.pdb
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\Aula10 - IF.genruntimeconfig.cache
+C:\Users\gabriel.santos\OneDrive - VIKSERVICES OUTSOURCING S.A\Área de Trabalho\C#\Aula09 - TypeCast\Aula10 - IF\obj\Debug\net6.0\ref\Aula10 - IF.dll
